@@ -8,7 +8,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: Mth1001939274.
       MYSQL_DATABASE: hotel_db
-      MYSQL_USER: usuario_hotel
+      MYSQL_USER: hotel_user
       MYSQL_PASSWORD: Sistemahotel2026.
     ports:
       - "3306:3306"
